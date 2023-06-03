@@ -8,7 +8,7 @@ The follwing is the steps, i have used to make visualization.
  2. Using visual basics, I am coding javascript to achive the goal.
   ## First step
   1.frist step is to import data using D3.js in the javascript file.
-  2. The provided url to D3.js is the link to jason file from the UGSC website.
+  2.The provided url to D3.js is the link to jason file from the UGSC website.
   ## Second step
   1. creating a map functction myMaps using L.map and specifying a center and zoom. 
  
